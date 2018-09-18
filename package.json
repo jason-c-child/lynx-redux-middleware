@@ -1,6 +1,6 @@
 {
   "name": "lynx-redux-middleware",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "redux middleware for tracking redux actions with statsd",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jason-c-child/lynx-redux-middleware/issues"
   },
-  "homepage": "https://github.com/jason-c-child/lynx-redux-middleware#readme"
+  "homepage": "https://github.com/jason-c-child/lynx-redux-middleware#readme",
+  "dependencies": {
+    "lynx": "^0.2.0"
+  }
 }
