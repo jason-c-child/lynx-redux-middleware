@@ -1,0 +1,24 @@
+{
+  "name": "lynx-redux-middleware",
+  "version": "0.1.1",
+  "description": "redux middleware for tracking redux actions with statsd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-c-child/lynx-redux-middleware.git"
+  },
+  "keywords": [
+    "redux",
+    "statsd",
+    "lynx"
+  ],
+  "author": "jason-c-child",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jason-c-child/lynx-redux-middleware/issues"
+  },
+  "homepage": "https://github.com/jason-c-child/lynx-redux-middleware#readme"
+}
